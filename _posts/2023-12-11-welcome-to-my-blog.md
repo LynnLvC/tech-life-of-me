@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my blog!"
-date: 2023-12-11 19:17:51
+date: 2023-12-11T19:17:51-01:00
 categories:
   - blog
 tags:
