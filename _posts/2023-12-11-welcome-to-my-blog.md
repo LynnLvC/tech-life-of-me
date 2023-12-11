@@ -2,7 +2,7 @@
 title: "Welcome to my blog!"
 date: 2023-12-11T19:17:51-01:00
 categories:
-  - blog
+  - Life-general
 tags:
   - general
 ---
