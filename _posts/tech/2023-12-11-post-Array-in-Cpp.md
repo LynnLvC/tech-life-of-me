@@ -1,7 +1,7 @@
 ---
 title: "Pointer with Array and its name"
 categories:
-  - Tech-Programming
+  - tech programming
 tags:
   - c++
   - programming

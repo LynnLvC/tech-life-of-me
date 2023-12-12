@@ -2,9 +2,9 @@
 title: "Welcome to my blog!"
 date: 2023-12-11T19:17:51-01:00
 categories:
-  - Life-general
+  - life general
 tags:
-  - general
+  - welcome
 ---
 Welcome to my blog! I come from China. After living in Beijing for almost 12 years, I moved to the Netherlands. Here I can enjoy the 'small' and 'beautiful' views from villages, farms, towns, canals,... Everything is so easily reachable.
 
