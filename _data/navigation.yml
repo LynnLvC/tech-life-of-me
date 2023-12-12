@@ -2,9 +2,9 @@ main:
   - title: "Home"
     uurl: /about/
   - title: "Technology"
-    url:/posts/tech/
+    url: /tech/
   - title: "Life"
-    url:/posts/life/
+    url: /life/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
