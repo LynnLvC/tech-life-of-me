@@ -1,10 +1,12 @@
 main:
   - title: "Home"
-    uurl: /about/
+    uurl: /home/
   - title: "Technology"
     url: /tech/
   - title: "Life"
     url: /life/
+  - title: "Year"
+    url:/posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
