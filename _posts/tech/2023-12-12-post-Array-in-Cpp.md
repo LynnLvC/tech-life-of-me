@@ -6,6 +6,6 @@ categories:
 tags:
   - c++
 ---
-In C++, the array name is the address of the array, just like in C.
+test
 
 		

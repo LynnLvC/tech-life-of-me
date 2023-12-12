@@ -1,6 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /tech/
-layout: posts
-author_profile: true
+layout: category
+taxonomy: tech
+author_profile: false
 ---

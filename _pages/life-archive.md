@@ -1,6 +1,7 @@
 ---
 title: "Posts by Year"
 permalink: /life/
-layout: posts
+layout: category
+taxonomy: life
 author_profile: true
 ---
