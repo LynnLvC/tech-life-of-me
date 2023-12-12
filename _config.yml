@@ -17,16 +17,16 @@
 
 
 locale                   : "en-US"
-title: My Personal Blog for life and Work Recording
+title                    : Monet's garden
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : A place to record my life and work# site tagline that appears below site title in masthead
 name                     : "Cris"
 email: iamlixiufeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   technology [sensor, programming, algorithm]
   life       [political, society, shopping, local life]
-#url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : # the subpath of your site, e.g. "/blog"
+url                       : https://lynnlvc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                   : /tech-life-of-me# the subpath of your site, e.g. "/blog"
 #repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -50,7 +50,6 @@ timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 include:
   - _pages
-  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
