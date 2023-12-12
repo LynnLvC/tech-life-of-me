@@ -1,9 +1,13 @@
 main:
-  - title: "All Posts"
-    url: /posts/
-  - title: "By Categories"
+  - title: "Home"
+    uurl: /about/
+  - title: "Technology"
+    url:/posts/tech/
+  - title: "Life"
+    url:/posts/life/
+  - title: "Categories"
     url: /categories/
-  - title: "By Tags"
+  - title: "Tags"
     url: /tags/
-#  - title: "About"
-#    url: /about/
+ # - title: "About"
+ #   url: /about/

@@ -13,15 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
+
+locale                   : "en-US"
 title: My Personal Blog for life and Work Recording
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Cris"
 email: iamlixiufeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   technology [sensor, programming, algorithm]
   life       [political, society, shopping, local life]
-  
+#url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
+#repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+#logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+
 #twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -57,6 +72,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+  
 
 author:
   name   : "Xiufeng"
@@ -91,7 +108,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
