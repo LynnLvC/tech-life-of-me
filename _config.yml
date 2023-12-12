@@ -19,7 +19,7 @@
 locale                   : "en-US"
 title                    : Monet's garden
 title_separator          : "-"
-subtitle                 : A place to record my life and work# site tagline that appears below site title in masthead
+subtitle                 : 好记性不如烂笔头
 name                     : "Cris"
 email: iamlixiufeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

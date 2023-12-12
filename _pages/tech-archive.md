@@ -1,7 +1,7 @@
 ---
 title: "All posts on technology"
 permalink: /tech/
-layout: category
+layout: archive-taxonomy
 taxonomy: tech
 author_profile: true
 ---
