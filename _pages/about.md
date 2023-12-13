@@ -9,13 +9,13 @@ toc_label: CV
 
 ## PROFILE ##
 
--   10 years' technical experience in MEMS sensor design, fabrication, and characterization.
+- 10 years' technical experience in MEMS sensor design, fabrication, and characterization.
 
--   Demonstrated expertise in electronics, (digital) signal processing and embedded system.
+- Demonstrated expertise in electronics, (digital) signal processing and embedded system.
 
--   Proficient use of: MATLAB/Python/C/LabView, COMSOL, Silvaco/LTspice and familiar with CAD, Cadence
+- Proficient use of: MATLAB/Python/C/LabView, COMSOL, Silvaco/LTspice and familiar with CAD, Cadence
 
--   Passionate and self-motivated, highly responsible, proficient problem solver, constructive in teamwork
+- Passionate and self-motivated, highly responsible, proficient problem solver, constructive in teamwork
 
 ## WORKING EXPERIENCE ##
 
