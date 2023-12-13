@@ -1,5 +1,5 @@
 ---
-title: "All posts about my life"
+title: "All posts on my life"
 permalink: /life/
 layout: category
 taxonomy: life
