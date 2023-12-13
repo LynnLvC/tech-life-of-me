@@ -1,7 +1,7 @@
 ---
 title: "All posts on my life"
 permalink: /life/
-layout: category
+layout: categories_sub
 taxonomy: life
 author_profile: true
 ---
