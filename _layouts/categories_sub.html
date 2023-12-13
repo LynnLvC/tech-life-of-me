@@ -6,7 +6,7 @@ layout: archive
 
 
 {% assign sub_posts = site.categories[page.taxonomy] %}  <!-- Get posts with the 'tech' category -->
-{% assign targetCategories = sub_posts | map: 'categories' | flatten | uniq | where_exp: "categories", "categories != page.taxonomy" %}
+{% assign targetCategories = sub_posts | map: 'categories' | flatten | uniq %}
 
 
 
@@ -19,6 +19,8 @@ layout: archive
 {% endfor %}
 
 <h1 class = "taxonomy__count"> The total article count is {{sub_posts.size}}</h1>
+<h2 class = "taxonomy__count"> The categories are {{targetCategories}}</h2>
+
 
   <ul class="taxonomy__index">
     {% for i in (1..categories_max) reversed %}
