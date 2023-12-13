@@ -3,9 +3,11 @@ title: "My CV"
 permalink: /about/
 layout: single
 author_profile: true
+toc  : true
+toc_label: CV
 ---
 
- **[PROFILE]**
+## PROFILE ##
 
 -   10 years' technical experience in MEMS sensor design, fabrication, and characterization.
 
@@ -14,7 +16,8 @@ author_profile: true
 -   Proficient use of: MATLAB/Python/C/LabView, COMSOL, Silvaco/LTspice and familiar with CAD, Cadence
 
 -   Passionate and self-motivated, highly responsible, proficient problem solver, constructive in teamwork
- **[WORKING EXPERIENCE]**
+
+ ## WORKING EXPERIENCE ##
 
 -   **Postdoc Researcher 2020.12 -- Present, the Netherlands**
  *Department of Imaging Physics, Delft University of Technology*
@@ -23,8 +26,10 @@ author_profile: true
 -   **Researcher in Glass-based semiconductor Sensors 2018.07 -- 2020.09, China**
  *Institute of Sensing Technology, BOE Technology Group Co., Ltd*
 > BOE: the largest semiconductor display manufacturer and IoT solution supplier in China (Avenue: 24 billion USD (2022)).
+
 > **Responsibility:** developing the integrated ultrasound sensor including piezo stacks and the analog-circuit interface based on thin film transistors and leading a technical team.
-> **[EDUCATION]**
+
+## EDUCATION ##
 
 -   **Ph.D. in Physical Electronics 2013.09 - 2018.06, China**
  *State Key Lab of Transducer Technology, Institute of Electronics, Chinese Academy of Sciences*
@@ -34,9 +39,12 @@ author_profile: true
 -   **Bachelor of Engineering in Microelectronics** **2009.09 - 2013.07, China**
  *Beijing Institute of Technology, Beijing, China*
 > Solid background in microelectronic engineering and hands on experience in the IC design flow.
-> **[PROJECTS]**
 
--   **Optoacoustic sensor and ultrasonic microbubbles for dosimetry in proton therapy 2020.12 -- Present**
+## PROJECTS ##
+
+### Optoacoustic sensor and ultrasonic microbubbles for dosimetry in proton therapy 
+**2020.12 -- Present**
+
  This project develops a system for online monitoring of the proton beam position to provide precise cancer treatment, which includes research on signal models and ultrasensitive optical-mechanical pressure sensor. We use acoustic signal to localize/image the Bragg peak.
 > **Responsibility:**
 
@@ -57,7 +65,9 @@ author_profile: true
 -   Acoustic measurements with teams in TU Delft, TNO, Erasmus MC, and
     Holland PTC.
 
--   **Development of under-display ultrasonic fingerprint sensor 2018.07 -- 2020.10**
+### Development of under-display ultrasonic fingerprint sensor 
+**2018.07 -- 2020.10**
+
  A full-screen and compact display is a strong demand in the mobile consumer market. This project developed an ultrasonic sensor array by glass-based thin film transistors (LTPS) to provide a low-cost and large-sensing-area solution for under-display fingerprint recognition.
 > **Responsibility:**
 
@@ -71,7 +81,9 @@ author_profile: true
 
 -   Coordinated with the process team for sensor fabrication and characterization and with the system integration team for sensor test and demonstration.
 
--   **Microfluidic Platform for Quantification of Specific Proteins in a Single Cell 2014.08 -- 2018.05**
+### Microfluidic Platform for Quantification of Specific Proteins in a Single Cell 
+**2014.08 -- 2018.05**
+
  The number of specific proteins in a single cell could be a marker for cell status. In this PhD project, I designed and delivered a microfluidic platform, which is capable of quantifying specific proteins at the single-cell level and potentially executing cancer diagnosis.
 > **Responsibility:**
 
@@ -81,7 +93,9 @@ author_profile: true
 
 -   Developed image processing tools; designed a signal processing toolkit including filtering, feature extraction, template matching, and classification utilizing machine learning techniques; analyzed and visualized using statistics methods.
 
--   **Impedance sensing device and algorithm 2020.09 -- 2020.12**
+### Impedance sensing device and algorithm 
+**2020.09 -- 2020.12**
+
  High insulation of charging cables to the ground is essential for EV charging stations. This project developed a module for monitoring insulation impedance.
 > **Responsibility**:
 
@@ -101,7 +115,9 @@ author_profile: true
 -   Guided two interns on embedded programming and instructed the FPGA
     development for system safety.
 
--   **AI Camera for analysis of pedestrian behaviors** **2018.12 -- 2020.05**
+### AI Camera for analysis of pedestrian behaviors
+**2018.12 -- 2020.05**
+
  Consumer behavior is essential information for merchants. This project built an AI system, including a customized camera, edge, and cloud computing of facial images.
 > **Responsibility:**
 
@@ -117,9 +133,11 @@ author_profile: true
     data processing architecture (based on SSH and the message queue
     RabbitMQ)
 
--   **Smart Gateway Based on Cameras and Other Sensors** **2014.12 --2016.05**
- This project was to deliver a smart network hub, integrated with the camera hub, the customer counting sensor, the ad-injecting router, and other ambient sensors, based on C, and Python.
-> **Main contributions:**
+### Smart Gateway Based on Cameras and Other Sensors
+ **2014.12 --2016.05**
+
+This project was to deliver a smart network hub, integrated with the camera hub, the customer counting sensor, the ad-injecting router, and other ambient sensors, based on C, and Python.
+> **Responsibility:**
 
 -   Developed a distributed customer-counting system with high accuracy
     by data fusion from ultrasonic and infrared sensors with ethernet
@@ -130,7 +148,8 @@ author_profile: true
     and GPRS).
 
 -   Implemented the software on Raspberry to build Wi-Fi hotspot, advertisement injection, and sensor data processing.
- **PATTENTS**
+
+ ## PATTENTS ##
 
 1.  Ultrasonic sensing module, ultrasonic sensing device and control method thereof, display device (US-2021156977-A1, CN112835052A, 2019.03)
 
@@ -147,7 +166,7 @@ author_profile: true
 7.  A system and method for simultaneous quantitative analysis of multiple proteins in single cell. (CN201811547637, 2019.04)
 
 8.  A microfluidic chip, a quantitative detection system and the method for and single cell protein. (CN201710259299, 2017.08)
- **[P]ublications**
+ ## PUBLICATIONS ##
 
 1.  **Xiufeng Li**, Paul van Neer, Martin D. Verweij, et al. The Monopole Approximation of Acoustic Waves in Proton Therapy. IEEE International Ultrasonics Symposium (IUS) 2023.
 
