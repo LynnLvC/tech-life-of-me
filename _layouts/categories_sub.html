@@ -14,7 +14,7 @@ layout: archive
 {% assign categories_max = 0 %}
 {% for categroyName in targetCategories %}
 	{% if site.categories[categroyName].size > categories_max %}
-		{% assign categories_max = selectedPosts | size %}
+		{% assign categories_max = site.categories[categroyName].size %}
 	{% endif %}
 {% endfor %}
 
