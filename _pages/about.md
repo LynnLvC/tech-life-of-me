@@ -17,11 +17,13 @@ toc_label: CV
 ## WORKING EXPERIENCE ##
 
 **Postdoc Researcher 2020.12 -- Present, the Netherlands**
+
  *Department of Imaging Physics, Delft University of Technology*
 
 - **Responsibility:** developing the proton localization system in proton therapy including numerical acoustic models, proton/laser experiment platforms, sensor tests, and coordinating between project members.
 
 **Researcher in Glass-based semiconductor Sensors 2018.07 -- 2020.09, China**
+
  *Institute of Sensing Technology, BOE Technology Group Co., Ltd[^1]*
 [^1]:BOE: the largest semiconductor display manufacturer and IoT solution supplier in China (Avenue: 24 billion USD (2022)).*
 
@@ -65,6 +67,7 @@ This project develops a system for online monitoring of the proton beam position
 -   Researched on the high-voltage (100V) and high-frequency (10 MHz) VDMOS process.
 -   Worked as the technical lead: led the device design team to optimize the sensor structure and provided technical instructions for the process team; Got an Innovation Award of 2021.
 -   Coordinated with the process team for sensor fabrication and characterization and with the system integration team for sensor test and demonstration.
+
 ### Microfluidic Platform for Quantification of Specific Proteins in a Single Cell 
 **2014.08 -- 2018.05**
 
@@ -97,6 +100,7 @@ The number of specific proteins in a single cell could be a marker for cell stat
 -   Implemented a video stream server on an embedded Linux platform(gstreamer, ffmpeg, Nginx) to enable 7x24 video streaming.
 -   Improved face-matching algorithm through the optimization of face markers and image enhancement methods; accomplished face classification and re-identification algorithms utilizing deep learning networks (python).
 -   Helped the implementation of the distributed device management and data processing architecture (based on SSH and the message queue RabbitMQ)
+
 ### Smart Gateway Based on Cameras and Other Sensors
  **2014.12 --2016.05**
 
@@ -118,6 +122,7 @@ This project was to deliver a smart network hub, integrated with the camera hub,
 6.  A single cell protein system and its application. (CN106290279A, 2017.01)
 7.  A system and method for simultaneous quantitative analysis of multiple proteins in single cell. (CN201811547637, 2019.04)
 8.  A microfluidic chip, a quantitative detection system and the method for and single cell protein. (CN201710259299, 2017.08)
+
 ## PUBLICATIONS ##
 
 1.  **Xiufeng Li**, Paul van Neer, Martin D. Verweij, et al. The Monopole Approximation of Acoustic Waves in Proton Therapy. IEEE International Ultrasonics Symposium (IUS) 2023.
