@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 permalink: /about/
-layout: default
+layout: single
 author_profile: true
 toc  : true
 toc_label: CV
