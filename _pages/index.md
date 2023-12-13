@@ -1,7 +1,7 @@
 ---
 title: "Home"
 permalink: /
-layout: home
+layout: home_archive
 author_profile: true
 ---
 

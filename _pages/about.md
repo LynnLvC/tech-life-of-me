@@ -22,8 +22,8 @@ toc_label: CV
 - **Responsibility:** developing the proton localization system in proton therapy including numerical acoustic models, proton/laser experiment platforms, sensor tests, and coordinating between project members.
 
 **Researcher in Glass-based semiconductor Sensors 2018.07 -- 2020.09, China**
- *Institute of Sensing Technology, BOE Technology Group Co., Ltd*
-> BOE: the largest semiconductor display manufacturer and IoT solution supplier in China (Avenue: 24 billion USD (2022)).
+ *Institute of Sensing Technology, BOE Technology Group Co., Ltd[^1]*
+[^1]:BOE: the largest semiconductor display manufacturer and IoT solution supplier in China (Avenue: 24 billion USD (2022)).*
 
 - **Responsibility:** developing the integrated ultrasound sensor including piezo stacks and the analog-circuit interface based on thin film transistors and leading a technical team.
 
@@ -32,7 +32,7 @@ toc_label: CV
 **Ph.D. in Physical Electronics 2013.09 - 2018.06, China**  
  *State Key Lab of Transducer Technology, Institute of Electronics, Chinese Academy of Sciences*
  
- - **Research**: the biomedical sensing system (microfluidic chips and fluorescent labelling and detection), signal acquisition and processing.
+- **Research**: the biomedical sensing system (microfluidic chips and fluorescent labelling and detection), signal acquisition and processing.
 - **Dissertation**: Research on microfluidic platforms enabling absolute quantification of single-cell proteins.
 
 **Bachelor of Engineering in Microelectronics** **2009.09 - 2013.07, China**  
@@ -44,8 +44,9 @@ toc_label: CV
 ### Optoacoustic sensor and ultrasonic microbubbles for dosimetry in proton therapy 
 **2020.12 -- Present**
 
- This project develops a system for online monitoring of the proton beam position to provide precise cancer treatment, which includes research on signal models and ultrasensitive optical-mechanical pressure sensor. We use acoustic signal to localize/image the Bragg peak.
-> **Responsibility:**
+This project develops a system for online monitoring of the proton beam position to provide precise cancer treatment, which includes research on signal models and ultrasensitive optical-mechanical pressure sensor. We use acoustic signal to localize/image the Bragg peak.
+
+**Contributions:**
 -   Implemented an acoustic source imaging/localization method with distributed sensors.
 -   Developed a numerical method and implemented it in CPU/GPU clusters to model the acoustic pressure field induced by the single-proton energy deposition; developed a simulation framework to optimize proton beam parameters for better accuracy.
 -   Built an acoustic experiment platform with a high-power laser including the mechanical design and three levels of safety control measures; controlled two high-speed cameras (10Mega fps) to be synchronized.
@@ -56,7 +57,8 @@ toc_label: CV
 **2018.07 -- 2020.10**
 
  A full-screen and compact display is a strong demand in the mobile consumer market. This project developed an ultrasonic sensor array by glass-based thin film transistors (LTPS) to provide a low-cost and large-sensing-area solution for under-display fingerprint recognition.
-> **Responsibility:**
+ 
+**Contributions:**
 
 -   Optimized the sensor stack by using the finite element software COMSOL and analytical models (MATLAB); Characterization of piezo stacks (d33/impedance test, film analysis, transistor I-V/C-V/Breakdown test).
 -   Proposed the ultrasonic-electronic signal model and the SPICE model for pixel circuits based on TFT.
@@ -66,8 +68,9 @@ toc_label: CV
 ### Microfluidic Platform for Quantification of Specific Proteins in a Single Cell 
 **2014.08 -- 2018.05**
 
- The number of specific proteins in a single cell could be a marker for cell status. In this PhD project, I designed and delivered a microfluidic platform, which is capable of quantifying specific proteins at the single-cell level and potentially executing cancer diagnosis.
-> **Responsibility:**
+The number of specific proteins in a single cell could be a marker for cell status. In this PhD project, I designed and delivered a microfluidic platform, which is capable of quantifying specific proteins at the single-cell level and potentially executing cancer diagnosis.
+ 
+**Contributions:**
 
 -   Designed and optimized the geometry of microfluidic chips (COMSOL) and improved the fabrication process by soft photolithography in the cleanroom.
 -   Built a laser-induced protein-quantification system based on conventional microscopy, including laser optical path design, precise fluid control using a feedback control loop, data acquisition and real-time data visualization (LabView).
@@ -77,7 +80,8 @@ toc_label: CV
 **2020.09 -- 2020.12**
 
  High insulation of charging cables to the ground is essential for EV charging stations. This project developed a module for monitoring insulation impedance.
-> **Responsibility**:
+ 
+**Contributions**:
 
 -   Proposed an algorithm to measure the leakage impedance based on the AC signal injection method, which includes the high accuracy signal measuring and nonlinear equation solving methods; By using amplitude and phase difference, this method could give the resistance and capacitance for DC+ and DC- cables simultaneously, which is the first one among all available devices.
 -   Modelled the transfer function and solved the nonlinear equations; developed all algorithms (Pulse generation, ADC acquisition and denoise, lock-in amplifying) running in real-time on the STM32 platform (C, freeRTOS); field tests showed only 0.5% error in the kHz-MHz range in on-site tests.
@@ -87,7 +91,8 @@ toc_label: CV
 **2018.12 -- 2020.05**
 
  Consumer behavior is essential information for merchants. This project built an AI system, including a customized camera, edge, and cloud computing of facial images.
-> **Responsibility:**
+ 
+**Contributions:**
 
 -   Implemented a video stream server on an embedded Linux platform(gstreamer, ffmpeg, Nginx) to enable 7x24 video streaming.
 -   Improved face-matching algorithm through the optimization of face markers and image enhancement methods; accomplished face classification and re-identification algorithms utilizing deep learning networks (python).
@@ -96,7 +101,8 @@ toc_label: CV
  **2014.12 --2016.05**
 
 This project was to deliver a smart network hub, integrated with the camera hub, the customer counting sensor, the ad-injecting router, and other ambient sensors, based on C, and Python.
-> **Responsibility:**
+
+**Contributions:**
 
 -   Developed a distributed customer-counting system with high accuracy by data fusion from ultrasonic and infrared sensors with ethernet communication capabilities using HTTP/TCP or MQTT.
 -   Developed IoT/communication solutions for charging stations, cameras, Wi-Fi beacons, thermal and humidity sensors (Wi-Fi, LBE, and GPRS).
