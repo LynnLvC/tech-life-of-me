@@ -6,7 +6,7 @@ layout: archive
 
 
 {% assign sub_posts = site.categories[page.taxonomy] %}  <!-- Get posts with the 'tech' category -->
-{% assign targetCategories = sub_posts | map: 'categories' | flatten | uniq %}
+{% assign targetCategories = sub_posts | map: 'categories' | flatten | uniq| where_exp: "categories", "categories != page.taxonomy" %}
 
 
 
