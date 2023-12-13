@@ -17,7 +17,7 @@ toc_label: CV
 
 -   Passionate and self-motivated, highly responsible, proficient problem solver, constructive in teamwork
 
- ## WORKING EXPERIENCE ##
+## WORKING EXPERIENCE ##
 
 -   **Postdoc Researcher 2020.12 -- Present, the Netherlands**
  *Department of Imaging Physics, Delft University of Technology*
@@ -149,7 +149,7 @@ This project was to deliver a smart network hub, integrated with the camera hub,
 
 -   Implemented the software on Raspberry to build Wi-Fi hotspot, advertisement injection, and sensor data processing.
 
- ## PATTENTS ##
+## PATTENTS ##
 
 1.  Ultrasonic sensing module, ultrasonic sensing device and control method thereof, display device (US-2021156977-A1, CN112835052A, 2019.03)
 
@@ -166,7 +166,8 @@ This project was to deliver a smart network hub, integrated with the camera hub,
 7.  A system and method for simultaneous quantitative analysis of multiple proteins in single cell. (CN201811547637, 2019.04)
 
 8.  A microfluidic chip, a quantitative detection system and the method for and single cell protein. (CN201710259299, 2017.08)
- ## PUBLICATIONS ##
+
+## PUBLICATIONS ##
 
 1.  **Xiufeng Li**, Paul van Neer, Martin D. Verweij, et al. The Monopole Approximation of Acoustic Waves in Proton Therapy. IEEE International Ultrasonics Symposium (IUS) 2023.
 
