@@ -19,26 +19,28 @@ toc_label: CV
 
 ## WORKING EXPERIENCE ##
 
--   **Postdoc Researcher 2020.12 -- Present, the Netherlands**
+**Postdoc Researcher 2020.12 -- Present, the Netherlands**
  *Department of Imaging Physics, Delft University of Technology*
-> **Responsibility:** developing the proton localization system in proton therapy including numerical acoustic models, proton/laser experiment platforms, sensor tests, and coordinating between project members.
 
--   **Researcher in Glass-based semiconductor Sensors 2018.07 -- 2020.09, China**
+- **Responsibility:** developing the proton localization system in proton therapy including numerical acoustic models, proton/laser experiment platforms, sensor tests, and coordinating between project members.
+
+**Researcher in Glass-based semiconductor Sensors 2018.07 -- 2020.09, China**
  *Institute of Sensing Technology, BOE Technology Group Co., Ltd*
 > BOE: the largest semiconductor display manufacturer and IoT solution supplier in China (Avenue: 24 billion USD (2022)).
 
-> **Responsibility:** developing the integrated ultrasound sensor including piezo stacks and the analog-circuit interface based on thin film transistors and leading a technical team.
+- **Responsibility:** developing the integrated ultrasound sensor including piezo stacks and the analog-circuit interface based on thin film transistors and leading a technical team.
 
 ## EDUCATION ##
 
--   **Ph.D. in Physical Electronics 2013.09 - 2018.06, China**
+**Ph.D. in Physical Electronics 2013.09 - 2018.06, China**  
  *State Key Lab of Transducer Technology, Institute of Electronics, Chinese Academy of Sciences*
-> **Research**: the biomedical sensing system (microfluidic chips and fluorescent labelling and detection), signal acquisition and processing.
-> **Dissertation**: Research on microfluidic platforms enabling absolute quantification of single-cell proteins.
+ 
+ - **Research**: the biomedical sensing system (microfluidic chips and fluorescent labelling and detection), signal acquisition and processing.
+- **Dissertation**: Research on microfluidic platforms enabling absolute quantification of single-cell proteins.
 
--   **Bachelor of Engineering in Microelectronics** **2009.09 - 2013.07, China**
+**Bachelor of Engineering in Microelectronics** **2009.09 - 2013.07, China**  
  *Beijing Institute of Technology, Beijing, China*
-> Solid background in microelectronic engineering and hands on experience in the IC design flow.
+
 
 ## PROJECTS ##
 
