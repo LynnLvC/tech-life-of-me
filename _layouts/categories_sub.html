@@ -16,7 +16,6 @@ layout: archive
 	{% if site.categories[categroyName].size > categories_max %}
 		{% assign categories_max = selectedPosts | size %}
 	{% endif %}
-  {% endif %}
 {% endfor %}
 
 <h1 class = "taxonomy__count"> The total article count is {{sub_posts.size}}</h1>
