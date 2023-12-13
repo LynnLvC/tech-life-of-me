@@ -30,7 +30,7 @@ layout: archive
 	{% assign str_cat="categories" %}
 {%endif %}
 	
-<h2 class = "taxonomy__count"> There {{beverb}} {{sub_posts.size}} {{str_arti}}, {{categories_max}} str_cat </h2>
+<h2 class = "taxonomy__count"> There {{beverb}} {{sub_posts.size}} {{str_arti}}, {{categories_max}} {{str_cat}}. </h2>
 
   <ul class="taxonomy__index">
     {% for i in (1..categories_max) reversed %}
