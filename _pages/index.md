@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About this site"
 permalink: /
 layout: home_archive
 author_profile: true
@@ -14,4 +14,4 @@ I plan to continuously write down the following topics:
 - Life thoughts
 - Technical logs
 
-*Thanks for visiting*
+**Thanks for visiting**
