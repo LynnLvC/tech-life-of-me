@@ -1,6 +1,6 @@
 ---
 title: "Tips for booking free admission to Picasso Museum in Barcelona"
-date: 2023-12-18 15:52:15
+date: 2023-12-18 15:52:15 +0100
 categories:
   - life
   - travel
@@ -16,7 +16,7 @@ For PICASSO MUSEUM, the free admission tickets are availble for every Thursdays,
 As its limited capacity, timed tickets are required. Advance tickets are available online up to 4 days before the date. 
 
 However, it does not say when exactly ticket will be availble online. I googled but cannot find the answer.
-I was trying to book the ticket on 21-12-2023 , so I checked the [website][kramdown hp] since 7 am on 17-12-2023, but I could see nothing availble until 12pm. However, around 5pm, I tried again, and found the ticket.![ticket] (assets\images\life\ticket-PICASSO-MUSEUM.png)
+I was trying to book the ticket on 21-12-2023 , so I checked the [website][kramdown hp] since 7 am on 17-12-2023, but I could see nothing availble until 12pm. However, around 5pm, I tried again, and found the ticket.![ticket] (\assets\images\life\ticket-PICASSO-MUSEUM.png){: .align-center}
 
 I guess the ticket should be availble since 4 pm, which is the open time for the free admission.
 
