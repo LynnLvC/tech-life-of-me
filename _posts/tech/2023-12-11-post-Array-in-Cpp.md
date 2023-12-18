@@ -11,7 +11,7 @@ However, there are differences between a pointer to an array and the array name.
 
 ## The pointer
 We first define the numeric array and three pointers.
-~~~ C++
+~~~ c++
     int cookies[9] = {1, 2, 4, 8, 16, 32, 64, 128, 512};
     int * pa,*pc;
     pa = cookies;
@@ -70,12 +70,12 @@ Another special thing about the array name is that
 > With `cout` and with most C++ expressions, the name of an array of char, a pointer-tochar,
 and a quoted string constant are all interpreted as the address of the first character
 of a string.
+
 ~~~ c++
 char animal[20] = "bear"; // animal holds bear
 const char * bird = "wren"; // bird holds address of string
 cout << animal << " and "; // display bear
 cout << bird << "\n"; // display wren
-
 cout << animal << " at " << (int *) animal << endl;
 
 ~~~
