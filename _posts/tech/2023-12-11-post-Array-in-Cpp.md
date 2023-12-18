@@ -1,5 +1,6 @@
 ---
 title: "Pointer with Array and its name"
+toc  : true
 categories:
   - tech
   - programming
@@ -82,6 +83,7 @@ cout << animal << " at " << (int *) animal << endl;
 Normally, if you give cout a pointer, it prints an address. But if the pointer is type
 char *, cout displays the pointed-to string. If you want to see the address of the string, you
 have to type cast the pointer to another pointer type, such as int *. [^2]
+
 [^2]: C++ Primer Plus, Sixth edition, Stephen Prata, Page 176.
 
 
