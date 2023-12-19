@@ -1,8 +1,7 @@
 ---
-title: "Curriculum vitae"
+title: "Curriculum Vitae"
 permalink: /about/
 layout: single
-classes: wide
 author_profile: true
 toc  : true
 toc_label: My CV

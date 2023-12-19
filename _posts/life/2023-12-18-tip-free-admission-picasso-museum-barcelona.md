@@ -1,6 +1,7 @@
 ---
 title: "Tips for booking free admission to Picasso Museum in Barcelona"
 date: 2023-12-18 15:52:15 +0100
+toc : false
 categories:
   - life
   - travel
