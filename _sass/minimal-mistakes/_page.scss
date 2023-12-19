@@ -121,7 +121,11 @@ body {
     font-size: 0.80em;
 	text-align: justify; 
   }
-
+/* paragraph may be generated inside a list, set font size as 0.80*0.85/0.85=0.80 em */
+  li p {
+    display: inline;
+	font-size: 1.17em;
+}
   /* paragraph indents */
   p {
     margin: 0 0 0.6em;
