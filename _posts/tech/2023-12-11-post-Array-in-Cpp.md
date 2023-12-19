@@ -40,6 +40,7 @@ The output is (on my x64 pc):
 In the above code, although `pa`,`pb`, and `pc` point to the same address, as shown by the output of **1**,  `pa` and `pc` are the pointer to the first element of the array, just as `&cookies[0]`; `pb`, is the pointer to the array (of size 9).
 
 It looks like that `cookies`, `&cookies`, and `&cookies[0]` point to the same address, however, `&cookies` points to the whole array [^1], just as the pointer `pb`, which is explained elaborately in the next section.
+
 [^1]: C++ Primer Plus, Sixth edition, Stephen Prata, Page 170
 
 ## Special case for size of an array
@@ -81,6 +82,7 @@ cout << animal << " at " << (int *) animal << endl;
 Normally, if you give cout a pointer, it prints an address. But if the pointer is type
 char *, cout displays the pointed-to string. If you want to see the address of the string, you
 have to type cast the pointer to another pointer type, such as int *. [^2]
+
 [^2]: C++ Primer Plus, Sixth edition, Stephen Prata, Page 176.
 
 
