@@ -2,9 +2,11 @@
 title: "Curriculum vitae"
 permalink: /about/
 layout: single
+classes: wide
 author_profile: true
 toc  : true
 toc_label: My CV
+toc_sticky: true
 ---
 
 ## PROFILE ##

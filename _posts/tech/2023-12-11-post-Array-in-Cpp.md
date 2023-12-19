@@ -78,7 +78,6 @@ const char * bird = "wren"; // bird holds address of string
 cout << animal << " and "; // display bear
 cout << bird << "\n"; // display wren
 cout << animal << " at " << (int *) animal << endl;
-
 ~~~
 Normally, if you give cout a pointer, it prints an address. But if the pointer is type
 char *, cout displays the pointed-to string. If you want to see the address of the string, you
