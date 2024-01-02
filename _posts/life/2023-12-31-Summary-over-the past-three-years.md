@@ -12,7 +12,7 @@ tags:
 
 三年博后生涯过去了，是时候回顾一下，给自己一个总结。
 
-1. 出发
+### 1.出发
 
 2020年7月一次部门会议进行中，我收到邮件拿到offer，很兴奋，也很淡定，毕竟离开一个舒适圈是很难的。我在北京已经生活了快12年，在这个年龄不继续积累人脉和经历，而是去国外重新开始意味着很大的自我突破，再回国也很难，如果没有很好的积累，接近35岁的年龄找工作不那么容易。在辞职时，领导们也试图劝说我，提醒年轻人要努力奋斗，还说欧洲正在衰落，在最好的年龄留在国内打拼更为明智。。
 
@@ -22,7 +22,7 @@ tags:
 
 10小时的飞行之后，我终于踏上了荷兰的土地，已经不记得怎么走出机场，但肯定没有了2018年第一次来荷兰的慌张。坐上娜姐一家专程来接我的车前往格罗宁根，路上几乎没什么车，天空撒下了灿烂的阳光落在翠绿的牧场上，落在弯弯的小河两边金黄的树叶上，落在带有斑点的奶牛身上，我很兴奋，拿着手机拍照，觉得很漂亮。直到今天，我依然喜欢在这样的田野小镇中骑车穿行。
 
-2. 生活
+### 2.生活
 
 初到荷兰，生活很不便利，特别是正处新冠最严重时期，没有行人，宵禁，超市也是限时开放。我每天的生活都是学习、线上开会、坐火车去格罗宁根。平时逛街也只能看看店面，看着大门紧闭的商店并不知道里面可以买到什么，因为全是荷兰语，这让我很慌张，因为我不知道我能在哪里买到我需要的东西，不会荷兰语就无法充分打开这个社会，于是我就看每到一个荷兰语就查阅词典。直到2022年国王节街上才出现一些人，我仍记得那天在街上看到并不熙攘的人头时的喜悦，我不由自主的笑。我从没想到我是如此渴望社群生活。
 
@@ -36,7 +36,7 @@ tags:
 
 但是到了春天雨少了有太阳了，我俩就骑着破旧的自行车，去河边，去森林，去小镇，迎着冷风，晒着难得的阳光，路过一处处红色的花、青色的草、白色的墙，欣赏着荷兰农家小院的美，也在感叹中国农村的落后。就这样从春天骑到了夏天、秋天，一年又一年。虽然这里生活很无聊，但骑在车上穿行在美丽的乡村也是一种乐趣。
 
-3. 工作
+### 3.工作
 
 刚来没多久就让我很震撼的是，项目组中有几位来自TNO的研究员或者工程师，年龄已经很大，但依然平等的跟我们工作在一起，尊重我们的意见，调仪器、写代码，工作在第一线。我经常能看到完成于90年代的代码，并且是从底层实现一些算法，并不依赖于第三方或商业库。我惊讶于他们对基础算法的理解、对技术的热爱，有时候遇到困难，他们会竭尽全力去帮忙。很敬佩这些老工程师，能够潜心研究底层技术并充满激情地在新的应用领域尝试，这也是荷兰科技得以发达的原因吧。
 
@@ -44,19 +44,19 @@ tags:
 
 这三年虽然参与了一些会议，准备了两篇文章（但缺少实验数据不准备发表），但是还是没有达到心里想达到的高度。因为来之前我觉得这是一个较为容易工程化的项目，我当时希望能在结束时有一些demo产品出现，所以全力工作在项目本身，忽视了并行研究的重要性，导致没有充分利用这里的平台和专家资源。最终我也通过模型、计算证实这是个几乎不可能的工程路线，但为时已晚，没有时间让我做其他有意义的事情了。
 
-4. 结束
+### 4.结束
 
 这三年的每一天我踏踏实实做好眼前的工作、解决遇到的每一个问题。虽然学到了很多实际知识，通过仿真加深了对理论知识的理解，很多时候有一种“原来如此”的感觉，但缺少对全局目标的把控，导致可见的成果寥寥。
 
 现在我对不管是超声、微纳器件领域的科研，还是信号处理、编程都有很深的理解。但我依然发现在荷兰找到一个很吻合的工作很难。
-下一阶段就是着重沉淀、目标导向吧。2024，好好计划，好好走路。
+下一阶段就是着重沉淀、目标导向吧。2024，好好计划，好好走路，慢慢稳定。
 
 ## English Version
 
 
 After three years of postdoctoral career, it is time now to look back and think about the future.
 
-1. Departure
+### 1. Departure
 
 In July 2020, during a department meeting, I received an email offering the Postdoc position. I felt excited and yet calm, as leaving a comfort zone is always challenging. I had been living in Beijing for almost 12 years, and restarting abroad at this age implies a significant breakthrough. Returning to China later would also be challenging without proper networking and experience, especially finding a job at the age of almost 35. The managers tried to persuade me to stay, emphasizing the importance of youthful struggle, mentioning Europe's decline, and suggesting it's wiser to stay in China at the prime age.
 
@@ -66,7 +66,7 @@ On November 16, 2020, I arrived in Guangzhou, calmly shopping and bidding farewe
 
 After a 10-hour flight, I finally set foot on the Dutch land. I can't recall how I walked out of the airport, but it was certainly less anxious than my first visit in 2018. I took a ride by a friend's family to Groningen. Few cars on the road. The sky showered brilliant sunlight on the lush pastures, on the golden leaves along winding rivers, and on the spotted cows. I was so excited then, capturing the beauty with my phone. Even today, I still enjoy cycling through such scenic small towns.
 
-2. Life
+### 2. Life
 
 Initially, life in the Netherlands seemed very inconvenient, especially during the peak of the COVID-19, with few pedestrians, curfews, closed shops, and limited supermarket hours. My daily routine were studying, attending online meetings, and taking the train to Groningen. Even stading in the street, only window-shopping was possible. And it was challenging to know what was available in closed stores because they were all in Dutch. Feeling anxious to the unknown, I looked up every words in the dictionary whenever I encountered. It wasn't until King's Day in 2022 that I saw people in the streets, and I vividly remember the joy of seeing a less-crowed people walking – I couldn't help but smile. I never realized how much I craved community life.
 
@@ -80,7 +80,7 @@ Winter in the Netherlands is always cold, dark, damp, and tiring. There was a ti
 
 When the spring arrived there was less rain and the sun shined, my partner and I would ride our worn-out bicycles to the riverside, forests, and small towns. Facing the cold wind, basking in the rare sunlight, we passed by fields of red flowers, green grass, and white walls, admiring the beauty of Dutch rural courtyards while lamenting the backwardness of Chinese rural areas. This continued from spring to summer, then to autumn, year after year. Although life here can be dull, cycling through beautiful countryside is a pleasure.
 
-3. Work
+### 3. Work
 
 Shortly after arriving, I was impressed to find several researchers or engineers from TNO in the team, some with a considerable age, working with us on an equal footing. They respected our opinions, operated instruments, and wrote code, working on the frontlines. I often saw code completed in the 1990s, implementing algorithms from the ground up without relying on third-party or commercial libraries. I was amazed by their understanding of fundamental algorithms and their passion for technology. When I was facing difficulties, they went out of their way to help. I greatly admired these experienced engineers who immersed themselves in researching fundamental technologies, constantly trying them in new application areas. This, I believe, is one reason for the development of technology in the Netherlands.
 
@@ -88,7 +88,7 @@ These years fulfilled my dreams. Although I had accumulated a lot of theoretical
 
 Although I attended some conferences and prepared two papers (not ready for publication due to lack of experimental data), I still did not reach the ambition I aspired to. Before I came here, I thought this was a project that could be engineering implemented . I hoped to have some demo products by the end. So, I focused entirely on the project itself, neglecting the importance of parallel research. This resulted in not being able to fully utilize the platform and expert resources here. In the end, I confirmed through modeling and computation that this was an almost impossible engineering route. Unfortunately, it was too late, and I didn't have time to do other meaningful nd interesting projects.
 
-4. Conclusion
+### 4. Conclusion
 
 Every day of these three years, I diligently did my work and solved every problem I encountered. I learned a lot of practical knowledge and deepened my understanding of theoretical knowledge through simulation. However, lacking control over the overall goal leaded to my few achievements.
 
