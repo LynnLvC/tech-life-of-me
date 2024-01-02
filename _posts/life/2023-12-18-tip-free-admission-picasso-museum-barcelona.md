@@ -1,6 +1,7 @@
 ---
 title: "Tips for booking free admission to Picasso Museum in Barcelona"
-date: 2023-12-18 15:52:15 +0100
+last_modified_at: 2023-12-31T14:54:43 +0000
+date: 2023-12-18T15:52:15 +0100
 toc : false
 categories:
   - life
@@ -9,6 +10,8 @@ tags:
   - ticket
   - tips
 ---
+
+### Picasso Museum
 
 In Spain most cultural places, like museums are open at some specific time to publics, to enable everyone enjoy the culture equally.
 
@@ -30,3 +33,16 @@ And:
 
 [kramdown hp]: https://entrades.eicub.net:8443/muslinkIII/venda/index.jsp?lang=3&nom_cache=PICASSO&property=PICASSO&grupActiv=1#close
 
+### Barcelona card
+>Update{: .red}
+
+We decided to buy the Barcelona Card Modernista to visit most attractions for free. However, one day before the departure, the price increased from Є90 to Є130. But there was another link we could buy for Є117 [Here][kramdown hp]. It's the same card but a different price, Weird!
+
+Eventually, we bought the Barcelona Express Card, which includes the 48-hour free public transportation and discounts to a lot of attractions.
+I thought it would save us a lot of money. However, with this card (and all the other cards), we had to buy the ticket on-site. Waiting in the queue was not a trouble, because they were not too long.
+
+However, the on-site tickets are generally more expensive than those online. We tried Casa Mila and Casa Batllo.  It was annoying. So we had to buy tickets online without using the discount card.
+
+So we spent more on the card but got almost no discount and only for 2 days free public transportation, compared to the 3-day free public transportation card.
+
+[kramdown hp]: https://bcnshop.barcelonaturisme.com/shopv3/en/product/29425/barcelona-card-modernista.html
